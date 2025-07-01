@@ -97,7 +97,7 @@ main {
 .button:active {
     box-shadow: inset -2px 3px #222;
     transition: a11 .1s;
-    font-size: 9rem;
+    font-size: .9rem;
 }
 
 
